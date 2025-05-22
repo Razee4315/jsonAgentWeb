@@ -69,5 +69,5 @@ This major release introduces a complete GUI overhaul and significant improvemen
 
 ## Contributors
 
-- **Saqlain Abbas** ([@razee4315](https://github.com/razee4315)) - Lead Developer
-- **AleenaTahir1** ([@AleenaTahir1](https://github.com/AleenaTahir1)) - Co-Developer 
+- **Saqlain Abbas** ([@razee4315](https://github.com/razee4315)) - Developer
+- **AleenaTahir1** ([@AleenaTahir1](https://github.com/AleenaTahir1)) - Developer 

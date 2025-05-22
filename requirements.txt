@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+trafilatura
+google-generativeai
+robotexclusionrulesparser
+urllib3 

@@ -144,11 +144,11 @@ This project utilizes Google's Gemini AI for intelligent content processing:
 
 ### Development Team
 
-**Lead Developer:** Saqlain Abbas  
+**Developer:** Saqlain Abbas  
 - GitHub: [@razee4315](https://github.com/razee4315)  
 - Email: saqlainrazee@gmail.com
 
-**Co-Developer:** AleenaTahir1  
+**Developer:** AleenaTahir1  
 - GitHub: [@AleenaTahir1](https://github.com/AleenaTahir1)  
 - Email: aleenatahirf23@nutech.edu.pk
 

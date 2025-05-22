@@ -160,24 +160,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Google for providing the Gemini AI API
 - The open-source community for the excellent libraries used in this project
-- Contributors and testers who helped improve this tool
-
-## 🚧 Future Enhancements
-
-- [ ] Support for additional AI models
-- [ ] Multi-language content support
-- [ ] Database integration for large-scale processing
-- [ ] Web-based interface
-- [ ] Batch processing capabilities
-- [ ] Advanced content filtering options
-
-## 📞 Support
-
-For questions, bug reports, or feature requests:
-
-1. Open an issue on GitHub
-2. Contact the development team via email
-3. Check the documentation for common solutions
 
 ---
 
